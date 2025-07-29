@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img width="178" height="200" alt="image" src="https://github.com/user-attachments/assets/bf2e9af0-cc47-41e7-9148-ab5d24e42f97" />
-f"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysneha102&label=Profile%20views&color=0e75b6&style=flat" alt="deysneha102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysneha102" alt="deysneha102" /></a> </p>

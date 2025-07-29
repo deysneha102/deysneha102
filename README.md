@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="178" height="200" alt="image" src="https://github.com/user-attachments/assets/bf2e9af0-cc47-41e7-9148-ab5d24e42f97" />
+<img align="right" width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bf2e9af0-cc47-41e7-9148-ab5d24e42f97" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysneha102&label=Profile%20views&color=0e75b6&style=flat" alt="deysneha102" /> </p>
 

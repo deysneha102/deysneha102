@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6a83c991-3a58-4eb9-b0be-03332417e501" />
-
+<img align="right" height="300" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysneha102&label=Profile%20views&color=0e75b6&style=flat" alt="deysneha102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysneha102" alt="deysneha102" /></a> </p>
@@ -17,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sneha dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha dey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sneha-dey-44345630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sneha-dey-44345630a" height="30" width="40" /></a>
+<a href="https://fb.com/sneha dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sneha dey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

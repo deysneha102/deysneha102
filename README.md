@@ -1,3 +1,4 @@
+![logo](https://github.com/deysneha102/deysneha102/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sneha Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" height="300" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />

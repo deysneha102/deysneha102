@@ -1,7 +1,7 @@
 ![logo](https://github.com/deysneha102/deysneha102/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sneha Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" height="300" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+<img align="right" height="200" width="300" src="https://c.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deysneha102&label=Profile%20views&color=0e75b6&style=flat" alt="deysneha102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysneha102" alt="deysneha102" /></a> </p>
